@@ -1,0 +1,15 @@
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\bin\Debug\net7.0\HybridSortVisualization.exe
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\bin\Debug\net7.0\HybridSortVisualization.deps.json
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\bin\Debug\net7.0\HybridSortVisualization.runtimeconfig.json
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\bin\Debug\net7.0\HybridSortVisualization.dll
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\bin\Debug\net7.0\HybridSortVisualization.pdb
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.csproj.AssemblyReference.cache
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.AssemblyInfoInputs.cache
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.AssemblyInfo.cs
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.csproj.CoreCompileInputs.cache
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.dll
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\refint\HybridSortVisualization.dll
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.pdb
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\HybridSortVisualization.genruntimeconfig.cache
+C:\Users\turtl\Downloads\C# Project Solutions\HybridSortVisualization\HybridSortVisualization\obj\Debug\net7.0\ref\HybridSortVisualization.dll
